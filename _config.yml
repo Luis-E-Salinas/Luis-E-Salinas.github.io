@@ -2,9 +2,9 @@ title: Luis E. Salinas # your name (or website title) here
 logo: "/images/website_picture.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+
   Second description 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/luis-e-salinas/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
